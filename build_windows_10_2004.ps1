@@ -1,0 +1,1 @@
+packer build -only=hyperv-iso .\test_win102004.json
